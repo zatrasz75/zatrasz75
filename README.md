@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-### 👨‍💻 Обо мне :
+### 👨‍💻 Обо мне : Golang backend Junior-developer
 
 ---
 Golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Россия.
