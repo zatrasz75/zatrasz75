@@ -68,6 +68,7 @@ Golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POstgreSQL-%23646CFF?style=for-the-badge&logo=postgresql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6DA55F?style=for-the-badge&logo=mongodb&logoColor=black)
+![gRPC](https://img.shields.io/badge/gRPC-316192?style=for-the-badge&logo=gRPC&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-%23E0234E?style=for-the-badge&logo=redis&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-%2338B2AC?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
