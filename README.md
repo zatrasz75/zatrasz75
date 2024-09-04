@@ -79,4 +79,5 @@ Golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zatrasz75&theme=highcontrast&locale=ru)](https://git.io/streak-stats)
 
+### 🌱 Аналитика
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zatrasz75&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
